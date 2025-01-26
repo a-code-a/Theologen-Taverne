@@ -1,4 +1,7 @@
 {
     "name": "sillytavern-plugins",
-    "type": "commonjs"
+    "type": "commonjs",
+    "dependencies": {
+        "sillytavern-plugins": "file:"
+    }
 }
